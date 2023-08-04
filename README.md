@@ -9,8 +9,7 @@ After that, go to your terminal and do the following:
 1. Type "crontab -e" to open Crontab's special menu
 2. Go to [Crontab's website](crontab.guru) to make your cron expression (for example, if I want it to run once in 6 hours, the expression would be 0 */6 * * *)
 3. Paste your expression to the terminal
-4. Press I to open insert menu
-5. Paste the path to your .py file with the program after your cron expression
-6. Press esc to exit insert menu, then press : button and type 'wq' below (write and quit)
+4. Paste the path to your .py file with the program after your cron expression
+6. Press : button and type 'wq' below (write and quit)
 
 That's it. Thanks for reading :)
